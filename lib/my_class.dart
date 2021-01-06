@@ -4,7 +4,10 @@ class MyClass {
     _b = a;
   }
 
+  /// 
   late final int _b;
+
+  /// Variable a
   late final int a;
 
   @override
